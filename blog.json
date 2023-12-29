@@ -1,8 +1,8 @@
 {
   "posts": {
     "title": {
-      "date": Posted on *placeholder*,
-      "url": *link*,
+      "date": "Posted on *placeholder*",
+      "url": "*link*",
     },
   }
 }
