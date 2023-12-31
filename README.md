@@ -4,7 +4,7 @@ Tim Defense Blog Engine (TDBE), is a "blog engine" powered by TurboWarp, made fo
 
 # How does it work?
 
-It works by basically fetching data from the JSON files (url.json and title.json) into the project, clicking on one of the posts will redirect into the post selected (if it is being run on an iframe, it will redirect inside it due to the way iframe works).
+It works by basically fetching data from the JSON files (url.json and title.json) into the project, clicking on one of the posts will redirect into the post selected (if it is being run on an iframe, it will redirect inside it due to the way iframe works). The "posts" are basically pages made in GrapesJS Studio (although it may be possible using different website builders).
 
 # How to use it?
 
