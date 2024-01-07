@@ -1,6 +1,6 @@
 # Tim Defense Blog Engine
 
-Tim Defense Blog Engine (TDBE), is a "blog engine" powered by [TurboWarp](https://desktop.turbowarp.org/), made for the upcoming [Tim Defense's new website](https://tim-defense.pages.dev/).
+Tim Defense Blog Engine (TDBE), is a "blog engine" powered by [TurboWarp](https://desktop.turbowarp.org/), made for [Tim Defense's new website](https://tim-defense.pages.dev/).
 
 ## How does it work?
 
